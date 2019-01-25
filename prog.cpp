@@ -6,7 +6,6 @@ class my
 {
 public:
     int a,b;
-    static int x;
 
     void getData(void)
     {
